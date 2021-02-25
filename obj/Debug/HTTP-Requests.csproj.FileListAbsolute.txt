@@ -8,3 +8,13 @@ C:\Users\dinhqu\source\repos\HTTP-Requests\obj\Debug\HTTP-Requests.csproj.Genera
 C:\Users\dinhqu\source\repos\HTTP-Requests\obj\Debug\HTTP-Requests.csproj.CoreCompileInputs.cache
 C:\Users\dinhqu\source\repos\HTTP-Requests\obj\Debug\HTTP-Requests.exe
 C:\Users\dinhqu\source\repos\HTTP-Requests\obj\Debug\HTTP-Requests.pdb
+C:\Users\dinhqu\Github\HTTP-Requests\bin\Debug\HTTP-Requests.exe.config
+C:\Users\dinhqu\Github\HTTP-Requests\bin\Debug\HTTP-Requests.exe
+C:\Users\dinhqu\Github\HTTP-Requests\bin\Debug\HTTP-Requests.pdb
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP-Requests.csprojAssemblyReference.cache
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP_Requests.Form1.resources
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP_Requests.Properties.Resources.resources
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP-Requests.csproj.GenerateResource.cache
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP-Requests.csproj.CoreCompileInputs.cache
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP-Requests.exe
+C:\Users\dinhqu\Github\HTTP-Requests\obj\Debug\HTTP-Requests.pdb

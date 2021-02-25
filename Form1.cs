@@ -15,6 +15,7 @@ namespace HTTP_Requests
 {
     public partial class Form1 : Form
     {
+        private int time = 0;
         public Form1()
         {
             InitializeComponent();
@@ -33,6 +34,8 @@ namespace HTTP_Requests
 
         private void timer1_Tick(object sender, EventArgs e)
         {
+            time++;
+            label8.Text = time.ToString() + "s";
             // https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/
             ManagementObjectCollection collection;
             using (var finddevice = new ManagementObjectSearcher(@"Select DeviceID from Win32_USBHub"))
